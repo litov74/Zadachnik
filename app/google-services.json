@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "431822083206",
+    "project_id": "zadachnik-33c49",
+    "storage_bucket": "zadachnik-33c49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431822083206:android:97b35a12c1c79956eeed07",
+        "android_client_info": {
+          "package_name": "ru.baccasoft.zadachnik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431822083206-fpm888nu4aihcr79kpf3c6h00260nvq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxA__avu9v0whxuxRJjauyj6uwOMQugc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431822083206-fpm888nu4aihcr79kpf3c6h00260nvq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431822083206-71rhdhjid7hp4i0f0uatp7siad94kf1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.baccasoft.Zadachnik"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431822083206:android:65c4ee44afb94254eeed07",
+        "android_client_info": {
+          "package_name": "ru.baccasoft.zadachnik.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431822083206-fpm888nu4aihcr79kpf3c6h00260nvq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxA__avu9v0whxuxRJjauyj6uwOMQugc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431822083206-fpm888nu4aihcr79kpf3c6h00260nvq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431822083206-71rhdhjid7hp4i0f0uatp7siad94kf1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.baccasoft.Zadachnik"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431822083206:android:35b81fb322a766b8eeed07",
+        "android_client_info": {
+          "package_name": "ru.baccasoft.zadachnik.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431822083206-fpm888nu4aihcr79kpf3c6h00260nvq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxA__avu9v0whxuxRJjauyj6uwOMQugc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431822083206-fpm888nu4aihcr79kpf3c6h00260nvq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431822083206-71rhdhjid7hp4i0f0uatp7siad94kf1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.baccasoft.Zadachnik"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
